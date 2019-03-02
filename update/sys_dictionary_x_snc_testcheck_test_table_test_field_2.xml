@@ -53,7 +53,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-03-02 07:08:31</sys_created_on>
-        <sys_id>58c75633db33ef003506f6aeaf961998</sys_id>
+        <sys_id>94a81af3db772740060cf78eaf961975</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Test Field 2</sys_name>
         <sys_package display_value="testcheck" source="x_snc_testcheck">313a3667dbf7230054f9f6aeaf96195a</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="testcheck">313a3667dbf7230054f9f6aeaf96195a</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_testcheck_test_table_test_field_2</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2019-03-02 07:11:52</sys_updated_on>
+        <sys_updated_on>2019-03-02 07:15:41</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
